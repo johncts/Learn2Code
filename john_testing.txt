@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-Hi! Just testing..
-=======
 Hi! Just testing..
 Next line
->>>>>>> aac6b1110bc934a18253ad4b01d28764d62fb249
+File to keep and not delete.
+
