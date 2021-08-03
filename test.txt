@@ -1,3 +1,0 @@
-Welcome to Git tutorial
-Add next line
-File to change and delete.
